@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meu Treino</string>
+    <string name="title_activity_treino">TreinoActivity</string>
+    <string name="title_activity_carga">CargaActivity</string>
+</resources>
